@@ -1,0 +1,22 @@
+===============================================================================
+E-COMMERCE CUSTOMER BEHAVIOR DATASET - ORIGINAL SOURCE
+===============================================================================
+
+Dataset Name: E-commerce Customer Behavior Dataset
+Source Platform: Kaggle
+Direct URL: https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset?resource=download
+
+File Used: E-commerce Customer Behavior - Sheet1.csv
+Format: CSV (Comma Separated Values)
+Total Records: 500 rows
+
+Description:
+This dataset contains customer-level information for an e-commerce platform, 
+including demographic details (Age, Gender, City), purchase behavior (Total Spend, 
+Items Purchased, Days Since Last Purchase), membership tiers (Membership Type), 
+satisfaction metrics (Satisfaction Level, Average Rating), and promotional impact 
+(Discount Applied).
+
+Usage Notes:
+- To reproduce this project, download the original CSV file from the URL above.
+- The raw data is ingested into SQL Server via staging table 'stg_ecommerce_customer_behavior'.
